@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
 # Distribution / packaging
 .Python
 build/
